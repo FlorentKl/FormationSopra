@@ -3,4 +3,4 @@
 .project
 .settings/
 #Maven
-target/
+./target/
